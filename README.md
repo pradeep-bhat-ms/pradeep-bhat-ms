@@ -30,9 +30,9 @@ Passionate **Java Full Stack Developer** with a Master’s degree in Computer Ap
 
 I have built real-world projects such as **AgriConnect** and a **Student Result Management System**, aimed at solving practical problems through technology. I am a quick learner, highly adaptable, and driven to create efficient, user-friendly, and impactful digital solutions while continuously enhancing my technical skills.
 
-- 🎓 **Pursuing:** Master of Computer Applications (MCA) at Surana College (Autonomous), Bangalore (2023 - 2025) - *CGPA: 8.0/10*
+- 🎓 **Graduated:** Master of Computer Applications (MCA) at Surana College (Autonomous), Bangalore (2023 - 2025) - *CGPA: 8.0/10*
 - 🎓 **Graduated:** Bachelor of Science (BSc) in Computer Science at Sahyadri Science College, Shimoga (2023)
-- 🌱 **Currently expanding skills in:** MERN Stack, Advanced Java, and AI integrations.
+- 🌱 **Currently expanding skills in:** Java Full Stack, Advanced Java, and AI integrations.
 
 ---
 
@@ -44,8 +44,8 @@ I have built real-world projects such as **AgriConnect** and a **Student Result 
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="JavaScript" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" title="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" title="Express.js" />
+  <!-- <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js" /> -->
+  <!-- <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" title="Express.js" /> -->
   <img src="https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=sqlite&logoColor=white" title="SQL" />
   <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" />
