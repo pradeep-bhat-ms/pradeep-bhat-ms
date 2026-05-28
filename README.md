@@ -75,7 +75,7 @@ I have built real-world projects such as **AgriConnect** and a **Student Result 
 
 ### 🌾 **AgriConnect** 
 - **Description:** A comprehensive web platform connecting farmers with buyers, agricultural experts, and government schemes. Features a marketplace, crop advisory module, and real-time market pricing dashboard.
-- [View on GitHub ↗](https://github.com/pradeep-bhat-ms/Agriconnect)
+- [View on GitHub ↗](https://github.com/pradeep-bhat-ms/AgriiConnect)
 
 ### 🎓 **Student Result Management System** 
 - **Description:** Full-stack application for institutions to manage and publish student exam results. Features an admin dashboard, automated grade computation, and printable student report cards.
