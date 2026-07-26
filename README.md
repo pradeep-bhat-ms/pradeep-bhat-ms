@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=595959&height=250&section=header&text=Hi,%20I'm%20Pradeep%20Bhat%20M%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=595959&height=250&section=header&text=Hi,%20I%27m%20Pradeep%20Bhat%20M%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20AI%20and%20ML%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Java+Full+Stack+Developer;AI+%26+ML+Enthusiast;React.js+Developer;Always+learning+new+tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Java+Full+Stack+Developer;AI+and+ML+Enthusiast;React.js+Developer;Always+learning+new+tech!" alt="Typing SVG" />
 </a>
 
 <p>
@@ -16,6 +16,9 @@
   </a>
   <a href="https://github.com/pradeep-bhat-ms" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://portfolio-pradeep-bhat-ms-projects.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4facfe?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
