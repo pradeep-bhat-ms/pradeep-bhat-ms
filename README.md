@@ -27,7 +27,7 @@
 ## 🧭 About Me
 
 ```java
-public class Pradeep {
+public class PradeepBhatMs {
     String role      = "Java Full Stack Developer";
     String education = "MCA (AI & ML) @ Surana College | CGPA 8.0";
     String currently  = "Training @ JSpiders Rajajinagar";
